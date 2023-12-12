@@ -1,2 +1,2 @@
-# Java
+# Python
 ## Proiect Testare Automata
