@@ -1,2 +1,1 @@
-# Python
-## Proiect Testare Automata
+
